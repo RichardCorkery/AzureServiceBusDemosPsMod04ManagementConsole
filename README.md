@@ -1,4 +1,4 @@
-# azure-service-bus-demos-ps-mod4-management-console
+# AzureServiceBusDemosPsMod04ManagementConsole
 
 ## Demos of Azure Service Bus: Management Console App from Pluralsight Class Azure Service Bus in Dept Module 4.  The console application allows the management of Service Bus Artifacts which includes:
 - Creatiing a queue
